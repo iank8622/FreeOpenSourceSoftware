@@ -29,7 +29,7 @@ SHA-1 編碼: 生成不同的 commit 身份證號，區分commit。
 
 ### git branch branch_name  
 
-    新增一個分支（方塊）。  
+新增一個分支（方塊）。  
 
 ### git checkout branch_name  
 
